@@ -5,7 +5,7 @@
 <a href="https://twitter.com/Arvin6191">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/twitter.svg" />
 </a>
-<a href="https://t.me/lightda">
+<a href="https://t.me/Arvin61928">
   <img align="left" alt="Telegram" width="22px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100002558573858">
