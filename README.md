@@ -18,8 +18,7 @@
 ### Hi 🙋‍♂️,
 ### I'm a 19 years old developer from Taiwan.
 
-#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/java.svg"></code>, C <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/c.svg"></code>, 
- C# <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/c-sharp.svg"></code>, Python <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/python.svg"></code>.
+#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/java.svg"></code>, C <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/c.svg"></code>, C++ <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/cpp.svg"></code>, C# <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/c-sharp.svg"></code>, Python <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/python.svg"></code>.
 
 
 
