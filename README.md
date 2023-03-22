@@ -24,8 +24,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arvin619&show_icons=true&title_color=fff&icon_color=FF0000&text_color=9f9f9f&bg_color=151515">
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvin619&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ***********************************
