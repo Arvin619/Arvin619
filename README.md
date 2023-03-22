@@ -1,17 +1,10 @@
 # Welcome to my GitHub Profile!
 
 ### Hi there I'm [Arvin619](https://github.com/Arvin619)! 👋
-<br>
-<a href="https://twitter.com/Arvin6191">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/twitter.svg" />
+
+<a href="https://arvin.memorystation.net/">
+  <img="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/website.svg"> Website
 </a>
-<a href="https://t.me/Arvin61928">
-  <img align="left" alt="Telegram" width="22px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100002558573858">
-  <img align="left" alt="Facebook" width="22px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/facebook.svg" />
-</a>
-<br />
 
 <br />
 
