@@ -3,7 +3,7 @@
 ### Hi there I'm [Arvin619](https://github.com/Arvin619)! 👋
 
 <a href="https://arvin.memorystation.net/">
-  <img="https://github.com/Arvin619/Arvin619/blob/master/svg/social/website.svg"> Website
+  <img src="https://github.com/Arvin619/Arvin619/blob/master/svg/social/website.svg"> Website
 </a>
 
 <br />
