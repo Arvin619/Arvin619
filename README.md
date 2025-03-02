@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile
 
 ### Hi there I'm [Arvin619](https://github.com/Arvin619)! 👋
 
@@ -8,12 +8,11 @@
 
 <br />
 
-### Hi 🙋‍♂️,
-### I'm a Gopher from Taiwan.
+### Hi 🙋‍♂️
 
-#### - 📖 Now Learning Golang <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/golang-logo.svg"></code>, Kotlin <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/kotlin.svg"></code>, TypeScript <code><img width="26px" src="https://github.com/Arvin619/Arvin619/blob/master/svg/langs/typescript.svg"></code>
+### I'm a Gopher from Taiwan
 
-
+#### - 📖 Now Learning Golang <code><img width="26px" src="./svg/langs/golang-logo.svg"></code>, Kotlin <code><img width="26px" src="./svg/langs/kotlin.svg"></code>, TypeScript <code><img width="26px" src="./svg/langs/typescript.svg"></code> and Rust <code><img width="26px" src="./svg/langs/rust.svg"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arvin619&show_icons=true&title_color=fff&icon_color=FF0000&text_color=9f9f9f&bg_color=151515">
 
